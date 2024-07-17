@@ -97,7 +97,7 @@ main {
 main h1 {
     text-align: center;
     font-size: 1.8em;
-    font-weight: bold;
+    font-weight: normal;
     color: var(--cor4);
     font-family: var(--fonte-android);
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.321);
